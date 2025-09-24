@@ -6,7 +6,7 @@ Ogni file rappresenta un programma indipendente, pensato per mettere in pratica 
 ## Struttura della cartella
 
 - `arraypari.c` → esempio di programma base con array con conteggio dei numeri pari.
-- `gestionedati.c` → Vettore di liste, gestione dati presi da un file testuale esterno.
+- `raccoltadati.c` → Vettore di liste, gestione dati presi da un file testuale esterno.
 
 ## Come compilare ed eseguire un esercizio
 

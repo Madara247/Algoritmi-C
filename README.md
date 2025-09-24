@@ -6,7 +6,8 @@ Ogni file rappresenta un programma indipendente, pensato per mettere in pratica 
 ## Struttura della cartella
 
 - `arraypari.c` → esempio di programma base con array con conteggio dei numeri pari.
-- `raccoltadati.c` → Vettore di liste, gestione dati presi da un file testuale esterno.
+- `raccoltadati.c` → Vettore di liste, gestione dati presi da un file testuale esterno (scaricare il file 'datiprecipitazioni.txt').
+- `auto.c` → Lista di liste, gestione di un autosalone(scaricare il file 'auto.dat')
 
 ## Come compilare ed eseguire un esercizio
 
